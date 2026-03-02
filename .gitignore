@@ -1,0 +1,12 @@
+# Ignore all data folder
+data/
+
+# Ignore CSV files
+*.csv
+
+# Ignore Mac junk
+.DS_Store
+__MACOSX/
+
+# Jupyter
+.ipynb_checkpoints/
